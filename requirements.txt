@@ -1,0 +1,16 @@
+librosa
+numpy
+matplotlib
+IPython
+sounddevice
+tqdm
+yulewalker
+torch
+pytorch_lightning
+pandas
+torchviz
+torchvision
+torchview
+hiddenlayer
+tensorboard
+audiomentations
